@@ -1,3 +1,4 @@
 *.js
 app.js
 passwords/
+style.css
